@@ -1,0 +1,15 @@
+.DraftEditor-editorContainer {
+	width: 100%;
+	padding: 0.5rem;
+	border: 2px solid #d2d2d2;
+	border-radius: 5px;
+	display: block;
+	margin: 2rem auto;
+	min-height: 60vh;
+	overflow: auto;
+}
+
+.public-DraftEditorPlaceholder-root {
+	padding: 0.6rem;
+	color: #d2d2d2;
+}
