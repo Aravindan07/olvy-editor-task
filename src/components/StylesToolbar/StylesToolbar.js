@@ -9,7 +9,7 @@ function StylesToolbar({ inlineStylesSelector, promptForLink, removeLink, addIma
 			<ButtonStyles onMouseDown={(e) => promptForLink(e)}>Add Link</ButtonStyles>
 			<ButtonStyles onMouseDown={(e) => removeLink(e)}>Remove Link</ButtonStyles>
 			<ButtonStyles onMouseDown={() => addImage("normal")}>Add Image</ButtonStyles>
-			<ButtonStyles onMouseDown={() => addImage("meme")}>Add Meme</ButtonStyles>
+			<ButtonStyles onMouseDown={() => addImage("meme")}>Add a Cat Meme</ButtonStyles>
 		</ToolbarWrapper>
 	);
 }

@@ -7,7 +7,7 @@ If you want to contribute to this project. These are the steps which needs to be
 3. Once all the dependencies are installed type `npm start` in the terminal.
 4. Include whatever you want in the application and raise a **PR**. That's it!!!
 
-If you just want to check this application just click on this [link](https://www.google.com).
+If you just want to check this application just click on this [link](https://olvy-editor-task.vercel.app/).
 
 #### How to use ?
 
